@@ -851,7 +851,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     font-weight: 700;
     -webkit-font-smoothing: antialiased;
 }
@@ -3218,7 +3218,7 @@ input[type="button"].btn-block {
 
 .btn,
 #Form_Form .Actions input[type="submit"] {
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out;
 }
@@ -3336,7 +3336,7 @@ input[type="button"].btn-block {
     display: block;
     width: 120px;
     border-left: 5px solid #fff;
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     line-height: 0.8;
     font-weight: 500;
     text-transform: uppercase;
@@ -7072,7 +7072,7 @@ button.close {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     text-transform: uppercase;
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     font-weight: 500;
     background-color: #3ca2c0;
 }
@@ -7082,7 +7082,7 @@ button.close {
 }
 
 .navbar-brand {
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     font-weight: 700;
     font-size: 40px;
 }
@@ -7179,7 +7179,7 @@ aside ol {
 aside li {
     color: #fff;
     line-height: 2.5em;
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     font-weight: 500;
     margin-bottom: 1px;
 }
@@ -7596,7 +7596,7 @@ aside:hover {
 
 #keynote-speakers .page-section-content {
     margin-top: 40px;
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     font-weight: 400;
     color: #3ca2c0;
     text-align: center;
@@ -8199,7 +8199,7 @@ header h1 {
     display: block;
     padding: 6px 12px;
     font-size: 16px;
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     text-transform: uppercase;
     color: #c8c8c8;
 }
@@ -8278,7 +8278,7 @@ header h1 {
 
 .bookings-price-list .price {
     font-size: 41px;
-    font-family: "SketchetikFillBold", Times, serif;
+    font-family: "DINMittelEFEL-Regular", Times, serif;
     font-weight: 700;
     -webkit-font-smoothing: antialiased;
     line-height: 1;
