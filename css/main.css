@@ -8168,19 +8168,23 @@ header h1 {
     opacity: 1;
 }
 
-.sponsor-about {
+.organiser-about, .sponsor-about {
     padding-left: 12px;
 }
 
-.sponsor-about p {
+.organiser-about p, .sponsor-about p {
     font-size: 14px;
 }
 
-.sponsor .logo img {
+.organiser-about .logo img, .sponsor .logo img {
     max-width: 200px;
 }
 
-#sponsors {
+.sponsor-row{
+    padding-top: 20px;
+}
+
+#organisers, #sponsors {
     border-top: 1px solid #e2e2e2;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -8188,8 +8192,7 @@ header h1 {
     overflow: visible;
 }
 
-#sponsors:before {
-    content: 'Brought to you by';
+#organisers:before, #sponsors:before {
     position: absolute;
     top: -15.08571px;
     left: 50%;
@@ -8204,20 +8207,34 @@ header h1 {
     color: #c8c8c8;
 }
 
+#sponsors:before {
+    content: 'Gold Sponsors';
+}
+
+#organisers:before {
+    content: 'Organised by';
+}
+
+
 @media (min-width: 768px) {
-    #sponsors:before {
+    #organisers:before, #sponsors:before {
         top: -22.62857px;
         font-size: 24px;
     }
 }
 
-#sponsors,
-#sponsors p {
+#organisers, #organisers p,
+#sponsors, #sponsors p {
     font-size: 14px;
 }
 
-#sponsors img {
+#organisers img, #sponsors img {
     max-width: 160px;
+}
+
+#organisers img.hypr-img{
+    max-width: 250px;
+    padding-left: 20px;
 }
 
 #sponsors .sponsor-principal img {
