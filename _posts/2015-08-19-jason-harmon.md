@@ -4,7 +4,9 @@ layout: post
 author: Gareth Evans
 ---
 
-We are delighted to confirm Jason Harmon the Head of API Design at PayPal as a speaker for API Days NZ!
+## Design-first APIs in practice
+
+API design has taken a front-seat in recent years. Designing in code can cause miscommunication and project delays we want to avoid. An emerging practice is using API specification formats to drive the development process. We'll look end-to-end, focusing on parallelizing work, improving feedback loops, and delivering high quality API products.
 
 ## Bio:
 
