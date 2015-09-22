@@ -14,7 +14,7 @@ We look forward to all attendees and sponsors help in making this a reality.
 2. Unwelcome behaviour will not be tolerated whether to other attendees, organisers, venue staff or other patrons of the APIDays NZ venues. Unwelcome behaviours include intimidation, harassment, abusive, discriminatory or derogatory conduct by any attendees of APIDays NZ and related events. All APIDays NZ venues may be shared with members of the public; please be respectful to all patrons of these locations.
 3. Be careful. Please keep an eye out for dangerous activity or situations, and alert the conference team if you become aware of any safety hazards.
 
-Our goal is to create a safe and harassment-free conference experience for all involved, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language or text editor.
+Our goal is to create a safe and harassment-free conference experience for all involved, regardless of gender, gender identity and expression, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language or text editor.
 
 Or more simply put  "don't be a jerk!"
 
