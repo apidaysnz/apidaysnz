@@ -8011,6 +8011,10 @@ header h1 {
     padding-top:50px;
 }
 
+#workshops .programme-title{
+    margin-bottom:20px;
+}
+
 @media (min-width: 480px) {
 
 }
