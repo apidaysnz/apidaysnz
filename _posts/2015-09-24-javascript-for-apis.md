@@ -16,8 +16,8 @@ The workshop mixes teaching, hands-on exercises with real code and sharing of th
 
 1. Attendees will become more familiar with:
  * Consuming APIs over HTTP in the context of a web-based application
- * Current state of JavaScript
- * JavaScript ecosystem includin gbuild tools e.g. Gulp
+ * Current state of JavaScript language including ES6
+ * JavaScript ecosystem including build tools e.g. Gulp
  * JavaScript testing tools e.g. Jasmine, Sinon, Mocha
  * Asynchronous JavaScipt programming with promises 
  * Key aspects of the JavaScript language used when working with APIs
