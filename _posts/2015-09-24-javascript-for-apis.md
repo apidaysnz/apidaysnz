@@ -16,9 +16,10 @@ The workshop mixes teaching, hands-on exercises with real code and sharing of th
 
 1. Attendees will become more familiar with:
  * Consuming APIs over HTTP in the context of a web-based application
+ * Orientation around JavaScript full stack including node.js 
  * Current state of JavaScript language including ES6
  * JavaScript ecosystem including build tools e.g. Gulp
- * Layered testing in JavaScript and appropriate tools e.g. Jasmine, Sinon, Mocha
+ * Layered testing in JavaScript and appropriate tools e.g. Jasmine, Sinon, Mocha, Chai
  * Asynchronous JavaScipt programming with promises 
  * Key aspects of the JavaScript language used when working with APIs
 2. Attendees will have fun. Fun is mandatory.
@@ -28,5 +29,7 @@ The workshop mixes teaching, hands-on exercises with real code and sharing of th
 * Experience of a programming language e.g. Java or .Net
 * Your own laptop
 * A github account
+
+Come and learn the foundational practices of JavaScript and its ecosystem so you can write code that can be easily understood and maintained over time. 
 
 [Book Now!](https://javascript-for-apis.lilregie.com)

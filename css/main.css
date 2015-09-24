@@ -8007,6 +8007,10 @@ header h1 {
     text-transform: uppercase;
 }
 
+#workshops{
+    padding-top:50px;
+}
+
 @media (min-width: 480px) {
 
 }
