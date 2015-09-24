@@ -8184,7 +8184,7 @@ header h1 {
     padding-top: 20px;
 }
 
-#organisers, #sponsors {
+#organisers, #sponsors-gold, #sponsors-silver, #sponsors-bronze {
     border-top: 1px solid #e2e2e2;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -8192,7 +8192,7 @@ header h1 {
     overflow: visible;
 }
 
-#organisers:before, #sponsors:before {
+#organisers:before, #sponsors-gold:before, #sponsors-silver:before, #sponsors-bronze:before {
     position: absolute;
     top: -15.08571px;
     left: 50%;
@@ -8207,8 +8207,16 @@ header h1 {
     color: #c8c8c8;
 }
 
-#sponsors:before {
+#sponsors-gold:before {
     content: 'Gold Sponsors';
+}
+
+#sponsors-silver:before {
+    content: 'Silver Sponsors';
+}
+
+#sponsors-bronze:before {
+    content: 'Bronze Sponsors';
 }
 
 #organisers:before {
@@ -8217,18 +8225,44 @@ header h1 {
 
 
 @media (min-width: 768px) {
-    #organisers:before, #sponsors:before {
+    #organisers:before, #sponsors-gold:before {
         top: -22.62857px;
         font-size: 24px;
     }
 }
+@media (min-width: 768px) {
+    #sponsors-silver:before {
+        top: -22.62857px;
+        font-size: 22px;
+    }
+}
+@media (min-width: 768px) {
+    #sponsors-bronze:before {
+        top: -22.62857px;
+        font-size: 20px;
+    }
+}
 
 #organisers, #organisers p,
-#sponsors, #sponsors p {
+#sponsors-gold, #sponsors-gold p {
     font-size: 14px;
 }
 
-#organisers img, #sponsors img {
+#sponsors-silver, #sponsors-silver p {
+    font-size: 12px;
+}
+
+#sponsors-bronze, #sponsors-bronze p {
+    font-size: 11px;
+}
+
+#organisers img, #sponsors-gold img {
+    max-width: 160px;
+}
+#sponsors-silver img{
+    max-width: 140px;
+}
+#sponsors-bronze img {
     max-width: 160px;
 }
 
@@ -8237,11 +8271,11 @@ header h1 {
     padding-left: 20px;
 }
 
-#sponsors .sponsor-principal img {
+#sponsors-gold .sponsor-gold img {
     max-width: 200px;
 }
 
-#sponsors .sponsor-gold p {
+#sponsors-silver .sponsor-silver p {
     margin-top: 20px;
 }
 
