@@ -16,4 +16,4 @@ Building distributed applications the way the web works is subtle rather than co
 
 ## Bio:
 
-Todd is an experienced coding architect with a passion for improving the way teams deliver high quality valuable code.
+Todd is a founder of [Hypr](https://hypr.nz/) and an experienced coding architect with a passion for improving the way teams deliver high quality valuable code.
