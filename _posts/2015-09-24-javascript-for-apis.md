@@ -18,7 +18,7 @@ The workshop mixes teaching, hands-on exercises with real code and sharing of th
  * Consuming APIs over HTTP in the context of a web-based application
  * Current state of JavaScript language including ES6
  * JavaScript ecosystem including build tools e.g. Gulp
- * JavaScript testing tools e.g. Jasmine, Sinon, Mocha
+ * Layered testing in JavaScript and appropriate tools e.g. Jasmine, Sinon, Mocha
  * Asynchronous JavaScipt programming with promises 
  * Key aspects of the JavaScript language used when working with APIs
 2. Attendees will have fun. Fun is mandatory.
