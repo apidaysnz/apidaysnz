@@ -8264,7 +8264,7 @@ header h1 {
     font-size: 11px;
 }
 
-#organisers img, #sponsors-gold img {
+#sponsors-gold img {
     max-width: 160px;
 }
 #sponsors-silver img{
@@ -8274,17 +8274,23 @@ header h1 {
     max-width: 160px;
 }
 
-#organisers img.hypr-img{
-    max-width: 250px;
-    padding-left: 20px;
-}
-
 #sponsors-gold .sponsor-gold img {
     max-width: 200px;
 }
 
 #sponsors-silver .sponsor-silver p {
     margin-top: 20px;
+}
+
+#organisers img.sixtree-img{
+    max-width:160px;
+}
+#organisers img.hypr-img{
+    max-width: 230px;
+}
+#organisers img.oauth-img{
+    margin-top: 30px;
+    max-width: 180px;
 }
 
 .bookings-price-list .price-group {
