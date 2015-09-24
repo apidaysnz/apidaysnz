@@ -10,7 +10,7 @@ Adoption of JavaScript sets the stage for the biggest shift in enterprise applic
 
 This workshop aims to help developers who are competent in other languages and environments become familiar with the JavaScript language and its ecosystem, both client-side and server-side. Many types of applications can be built with JavaScript these days. This workshop focuses on the important aspects of the language and ecosystem when exposing and consuming APIs.
 
-The workshop mixes teaching, hands-on exercises with real code and sharing of the experienced instructors helping guide you through real world examples. There will be opportunities to collaborate with others in the workshop and engage in rich conversation about the materials covered.
+The workshop will be an engaging mix of lecture and instructor-led hands-on coding exercises using the latest version of JavaScript and modern tools and libraries in the JavaScript ecosystem. There will be opportunities to collaborate with others in the workshop and engage in rich conversation about the materials covered.
 
 ### Learning Objectives
 
@@ -20,13 +20,13 @@ The workshop mixes teaching, hands-on exercises with real code and sharing of th
  * Current state of JavaScript language including ES6
  * JavaScript ecosystem including build tools e.g. Gulp
  * Layered testing in JavaScript and appropriate tools e.g. Jasmine, Sinon, Mocha, Chai
- * Asynchronous JavaScipt programming with promises 
+ * Asynchronous JavaScript programming with callbacks and promises
  * Key aspects of the JavaScript language used when working with APIs
 2. Attendees will have fun. Fun is mandatory.
 
 ### Pre-Requisites
 
-* Experience of a programming language e.g. Java or .Net
+* Experience of a curly bracket language e.g. C, C++, Java, C#
 * Your own laptop
 * A github account
 
