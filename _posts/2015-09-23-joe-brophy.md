@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## The role of APIs in Postal Business Model Innovation
-
+ 
 Postal organisations worldwide are undergoing significant disruption and transformation. In an effort to speed innovation, NZ Post created a new Digital team in 2013 to focus on the search for a new postal business model and an imperative to enable the core business strategy to grow in Parcels and eCommerce. 
 In this talk I will speak about the journey of NZ Posts digital team from inception to maturity, the new way of working that has developed, combining Design Thinking and Lean Start-Up techniques and the role and importance of APIs and API management to speed innovation. 
 

@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## JavaScript for APIs
-
+ 
 Adoption of JavaScript sets the stage for the biggest shift in enterprise application development in more than a decade. - [Forrester](https://www.forrester.com/The+Dawn+Of+Enterprise+JavaScript/fulltext/-/E-RES120686)
 
 This workshop aims to help developers who are competent in other languages and environments become familiar with the JavaScript language and its ecosystem, both client-side and server-side. Many types of applications can be built with JavaScript these days. This workshop focuses on the important aspects of the language and ecosystem when exposing and consuming APIs.

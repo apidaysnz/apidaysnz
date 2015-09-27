@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## APIs for Amnesty
-
+ 
 Amnesty International NZ is part of Amnesty International, a global movement of individuals who protect and defend human rights.
 
 We do this by investigating and exposing abuses, mobilising our movement of over 7 million supporters from 150 countries worldwide to take action.

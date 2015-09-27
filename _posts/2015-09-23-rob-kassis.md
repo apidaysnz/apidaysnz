@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## Enterprise SOA #FAILures addressed by APIs
-
+ 
 Rob will present an analysis of some of the challenges faced in a large Australian Corporate & Institutional Bank in relation to their API journey, and how a modern API Management platform has helped them to re-shape thinking, which has become entrenched after a decade of unquestioned commitment to SOA as the one true religion.
 
 ## Bio:

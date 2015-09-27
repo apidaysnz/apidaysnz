@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## ASB's API journey
-   
+ 
 This will be a business track discussion on ASB's API journey. The talk will tell a story how ASB started using API's and lessons learned along the way. The talk will also cover ASB's plans to go with extending the API environment externally.
 
 ## Bio:

@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## Four Lessons From 10+ Years of APIs
-
+ 
 You probably have an API in 2015, and you probably didn’t have one in 2005. During that 10 year period, thousands of companies published public APIs. Even with an API already launched, you now have the opportunity to learn from this period of significant change. The amount of value your API will generate in the future can be determined by these four historical lessons:
 
 1. You can scale your business with outside developers

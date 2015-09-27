@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## Global Ecosystem Marketing
-
+ 
 A talk about the journey Xero has gone on growing its ecosystem off the back of having exceptional APIs. Our APIs have become the basis for many business models to form and thrive.
 
 We will also look at the future of our ecosystem and our API strategy.

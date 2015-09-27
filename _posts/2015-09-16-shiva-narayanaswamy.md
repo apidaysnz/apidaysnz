@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## How your APIs can be light and fluffy in the Cloud
-
+ 
 The fact that APIs fuel innovation is well accepted. We are currently seeing traditional enterprises and even the financial industry moving towards an API driven ecosystem. Customers are having to do a lot of heavy lifting in terms of infrastructure, scalability, security to set up the foundations for the platform, before the fire of innovation can be sparked. This talk will focus on tools, techniques and services for architecting API driven platforms. Concepts covered will include event driven architectures, serverless architectures, identity management and security. Examples used will be related to AWS, but equally applicable to any comparable services.
 
 ## Bio:

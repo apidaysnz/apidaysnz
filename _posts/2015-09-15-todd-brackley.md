@@ -5,7 +5,7 @@ author: Gareth Evans
 ---
 
 ## Hypermedia web API as a network of data
-
+ 
 This talk specifically focuses on the "network of data" that is exposed through a REST hypermedia web API. Such a design means that clients follow links to traverse through the structure of relations from a known starting point. This is just one of the general ways that the web works.
 
 We are currently refactoring a "reporting" application that was underperforming. Amongst its issues are latency for the users and high server CPU utilisation. We have seen these problems dissipate by, amongst other things, breaking up data resources into small atoms requested separately. This is counter-intuitive when compared to batch style APIs (currently, the dominant style).
