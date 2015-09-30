@@ -8270,19 +8270,16 @@ header h1 {
 #sponsors-silver img{
     max-width: 140px;
 }
-#sponsors-bronze img {
-    max-width: 160px;
+#sponsors-bronze img.nzpost-logo {
+    max-width: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
-#sponsors-bronze img.braintree-logo, #sponsors-bronze img.nzpost-logo {
+#sponsors-bronze img.braintree-logo {
     max-width: 160px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
-#sponsors-gold .sponsor-gold img {
-    max-width: 200px;
-}
-
 #sponsors-silver .sponsor-silver p {
     margin-top: 20px;
 }
