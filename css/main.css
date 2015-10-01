@@ -8269,14 +8269,26 @@ header h1 {
 }
 #sponsors-silver img{
     max-width: 140px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 #sponsors-bronze img.nzpost-logo {
-    max-width: 200px;
+    max-width: 190px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
 #sponsors-bronze img.braintree-logo {
-    max-width: 160px;
+    max-width: 150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#sponsors-bronze img.assurity-logo {
+    max-width: 170px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#sponsors-bronze img.apimatic-logo {
+    max-width: 100px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
