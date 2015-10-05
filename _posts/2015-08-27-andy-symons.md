@@ -4,7 +4,9 @@ layout: post
 author: Gareth Evans
 ---
 
-Investor and Digital Strategist Andy Symons will be joining us at API Days and sharing stories and experience of digital transformation.
+## Are APIs on your innovation agenda?
+ 
+APIs have a huge role to play in organisations (large and small) accelerating innovation and digital development agendas.  How do APIs become the driving force behind an orgainsation’s innovation agenda. What are some questions that we need to be asking about leveraging APIs in our organisations?  Some practical thoughts, experiences and stories.
 
 ## Bio:
 
