@@ -1,7 +1,7 @@
 ---
 title: API Design Workshop
 layout: post
-author: Gareth Evans
+author: Saul Caganoff
 ---
 
 ## API Design Workshop (Free)
