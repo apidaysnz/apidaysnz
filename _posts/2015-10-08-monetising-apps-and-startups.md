@@ -6,7 +6,7 @@ author: Saul Caganoff
 
 ## Monetising Apps and Startups Using Braintree
 
-###Description
+### Description
 
 In this workshop we will look at some of the ways that some of the most successful apps and startups around today have been able to monetise using braintree, from vaulting payments to subscriptions and even freemium. The workshop will include a hands-on component on that will show you how to integrate into some basic examples (so please bring laptops).
 

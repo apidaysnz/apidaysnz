@@ -32,6 +32,10 @@ The workshop will be an engaging mix of lecture and instructor-led hands-on codi
 
 Come and learn the foundational practices of JavaScript and its ecosystem so you can write code that can be easily understood and maintained over time. 
 
+### Time
+
+October 20th 9:00 am to 5:00 pm
+
 ### About your instructors
 
 Don has spent the entire two decades of his programming career on the bleeding edge. He has used a wide array of programming languages on most of the popular desktop and mobile platforms and many of the popular backend web/cloud platforms. For the past 5 years he has been building solutions with modern frontend web technologies. During his 12 years at Microsoft, he built developer guidance, lead projects and teams, organized and spoke at global conferences, and designed and taught purpose-built programming curriculum. Since then he has built concept prototypes for keynotes at global conferences, tackled enterprise deployment in the startup space, and mentored fellow developers. Don is a strong proponent of open source software and coding for social impact.

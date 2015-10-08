@@ -38,6 +38,14 @@ Module 4: API Management (1 hour)
 - Authentication and authorisation.
 - User authentication and authorisation.
 
+### Time
+
+October 20th 1:00 pm to 5:00 pm
+
+### Location
+
+The Sinclair Rooms 1 & 2, Sebel Quay West, 8 Albert Street, Auckland
+
 This workshop is free for conference attendees!
 
 [Book Now!](https://api-design-workshop.lilregie.com/)
