@@ -21,3 +21,5 @@ October 20th 9:00 am to 12:30 pm
 ### Location
 
 The Sinclair Rooms 1 & 2, Sebel Quay West, 8 Albert Street, Auckland
+
+[Book Now!](https://monetising-apps-and-startups-with-braintree.lilregie.com/)
