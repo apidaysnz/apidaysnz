@@ -8192,7 +8192,7 @@ header h1 {
     padding-top: 20px;
 }
 
-#organisers, #sponsors-gold, #sponsors-silver, #sponsors-bronze {
+#organisers, #sponsors-gold, #sponsors-silver, #sponsors-bronze, #sponsors-media {
     border-top: 1px solid #e2e2e2;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -8200,7 +8200,8 @@ header h1 {
     overflow: visible;
 }
 
-#organisers:before, #sponsors-gold:before, #sponsors-silver:before, #sponsors-bronze:before {
+#organisers:before, #sponsors-gold:before, #sponsors-silver:before,
+#sponsors-bronze:before, #sponsors-media:before {
     position: absolute;
     top: -15.08571px;
     left: 50%;
@@ -8227,6 +8228,10 @@ header h1 {
     content: 'Bronze Sponsors';
 }
 
+#sponsors-media:before {
+    content: 'Media Partners';
+}
+
 #organisers:before {
     content: 'Organised by';
 }
@@ -8245,7 +8250,7 @@ header h1 {
     }
 }
 @media (min-width: 768px) {
-    #sponsors-bronze:before {
+    #sponsors-bronze:before, #sponsors-media:before {
         top: -22.62857px;
         font-size: 20px;
     }
@@ -8260,7 +8265,8 @@ header h1 {
     font-size: 12px;
 }
 
-#sponsors-bronze, #sponsors-bronze p {
+#sponsors-bronze, #sponsors-bronze p
+#sponsors-media, #sponsors-media p{
     font-size: 11px;
 }
 
@@ -8291,6 +8297,9 @@ header h1 {
     max-width: 100px;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+#sponsors-media img{
+    max-width: 110px;
 }
 #sponsors-silver .sponsor-silver p {
     margin-top: 20px;
