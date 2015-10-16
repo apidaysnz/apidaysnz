@@ -5,7 +5,12 @@ author: Gareth Evans
 ---
 
 ## The Hypermedia API Pivot
- 
-Cemplicity is a young and fast growing company. Within our first year we have outgrown our existing technology platform.
+  
+Cemplicity is a young and fast growing company specialising in patient experience management.
 
-In this talk I will outline how we have used an internal Hypermedia API to begin refactoring the company and provide a foundation for scaling internationally.
+Although relatively new, parts of our software platform were inherited from another company in our group;  a blessing for speed to market but a problem with complexity and tightly bound strategies of yesteryear.
+In this talk I will outline our journey from the code straight jacket, through a Hypermedia API pivot, which ultimately has provided us with a simplified backbone to evolve internally and across boundaries.
+
+Bio:
+
+Nick is the Founder of Cemplicity.  He speaks reasonably good English and has been working around software for 20 years.”
