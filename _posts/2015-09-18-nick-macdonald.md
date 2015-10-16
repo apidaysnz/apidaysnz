@@ -13,4 +13,4 @@ In this talk I will outline our journey from the code straight jacket, through a
 
 Bio:
 
-Nick is the Founder of Cemplicity.  He speaks reasonably good English and has been working around software for 20 years.”
+Nick is the Founder of Cemplicity.  He has been working around software for 20 years.
