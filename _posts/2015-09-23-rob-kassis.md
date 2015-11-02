@@ -11,3 +11,7 @@ Rob will present an analysis of some of the challenges faced in a large Australi
 ## Bio:
 
 Robert Kassis is leading the implementation of a modern digital transformation platform for a large Australian Corporate & Institutional Bank.  The new platform is challenging the thinking around many long held assertions espoused by existing governance models.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/kassis.pdf)

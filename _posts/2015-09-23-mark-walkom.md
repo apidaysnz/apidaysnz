@@ -11,3 +11,7 @@ APIs are all about keeping things simple, but also flexible enough to work with 
 ## Bio:
 
 Mark is a long time sysadmin turned support engineer/community advocate and was the first Elastic hire in the AU region back in 2014. When not supporting the users he's BBQing or catching up on his kagillion RSS feeds.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/walkom.pdf)

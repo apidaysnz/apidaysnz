@@ -17,3 +17,7 @@ To provide you with experience, we will open up the reporting API for the sessio
 ## Bio:
 
 Todd actively works with startups and corporates to leverage a REST style of architecture to effectively solve business and IT problems. He is a co-founder of [Hypr](https://hypr.nz/).
+
+## Slides:
+
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/brackley.pdf)

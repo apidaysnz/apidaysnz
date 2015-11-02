@@ -11,3 +11,7 @@ REST APIs are ubiquitous. HTTP is used to connect almost everything from web app
 ## Bio:
 
 I currently work as a senior consultant at ThoughtWorks and I am heavily involved in web application development and delivery. Last few years I've spent a lot of time focusing on security and cryptography especially in terms of distributed applications.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/vuksanovic.pdf)

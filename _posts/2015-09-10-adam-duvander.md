@@ -20,3 +20,7 @@ The history of APIs expands beyond the most recent 10 years. The success of earl
 ## Bio:
 
 Adam is an API veteran and former Editor of [ProgrammableWeb](http://www.programmableweb.com/). He has experienced the highs and lows of the first 10 years of modern APIs first hand.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/duvander.pdf)

@@ -13,3 +13,7 @@ We will also look at the future of our ecosystem and our API strategy.
 ## Bio:
 
 Global Product Marketing Manager for Xero's Ecosystem of over 400 partners around the world.
+
+## Slides:
+
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/anderson.pdf)

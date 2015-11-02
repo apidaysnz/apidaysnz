@@ -11,3 +11,7 @@ As we start our journey towards a microservices architecture, divisions in our s
 ## Bio
 
 Katrina Clokie serves a team of more than 20 testers as a Testing Coach at the Bank of New Zealand. She is an active contributor to the international testing community as the editor of [Testing Trapeze](http://www.testingcircus.com/category/testing-trapeze/) magazine, a co-founder of her local testing MeetUp [WeTest Workshops](http://www.meetup.com/WeTest-Workshops/), a mentor with [Speak Easy](http://speaking-easy.com/), an international conference speaker, frequent [blogger](http://katrinatester.blogspot.co.nz/) and [tweeter](https://twitter.com/katrina_tester).
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/clokie.pdf)

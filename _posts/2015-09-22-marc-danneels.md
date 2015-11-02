@@ -11,3 +11,7 @@ This will be a business track discussion on ASB's API journey. The talk will tel
 ## Bio:
 
 Marc is an IT Professional with a consulting background at Accenture. He's been living in NZ for past 13 years and has worked at Peace Software (Utilities CRM), HP Enterprise Services (infrastructure) and for the last 8 years been working at ASB Bank. Marc is currently the Head of Data, Integration and Enterprise Content Management.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/danneels.pdf)

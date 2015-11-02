@@ -14,3 +14,7 @@ In this talk I will outline our journey from the code straight jacket, through a
 Bio:
 
 Nick is the Founder of Cemplicity.  He has been working around software for 20 years.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/macdonald.pdf)

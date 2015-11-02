@@ -16,4 +16,8 @@ In this talk I will outline the benefits of the API we created including how it 
 
 ## Bio:
 
-Vivian Chandra is currently the ICT & Database Manager at Amnesty International Aotearoa New Zealand. She has been involved with Amnesty since she was in high school, and calls herself a human rights activist that just happens to *do* IT. 
+Vivian Chandra is currently the ICT & Database Manager at Amnesty International Aotearoa New Zealand. She has been involved with Amnesty since she was in high school, and calls herself a human rights activist that just happens to *do* IT.
+ 
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/chandra.pdf)
