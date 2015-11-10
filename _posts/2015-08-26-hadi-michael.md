@@ -11,3 +11,7 @@ Are you failing to attract client developers and grow your ecosystem? Do you und
 ## Bio:
 
 Hadi is a digital adviser and software engineer, with an interest in making the physical world more connected. As part of the Mobile and Connected Devices team at Deloitte Digital, he has helped clients realise the power of liberating data, as well as capitalising on disruptive innovation in mobile, wearable, contextual and ambient computing. He has been known to tinker with hardware and use JavaScript for unusual things such as mathematical modelling and building robots.
+
+## Slides:
+ 
+Slides are now available [here](http://apidaysnz.s3-website-ap-southeast-2.amazonaws.com/michael.pdf)
