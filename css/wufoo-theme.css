@@ -106,11 +106,6 @@ html{
 	color:#333333;
 	font-size:100%;
 }
-{* Custom Fonts Break Dropdown Selection in IE *}
-.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file{ 
-	font-family:inherit;
-}
-
 
 .wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label{
 	font-family:inherit;
@@ -138,7 +133,6 @@ li.leftThird small, li.middleThird small, li.rightThird small,
 /* ----- Button Styles ----- */
 
 .wufoo input.btTxt{
-
 }
 
 /* ----- Highlight Styles ----- */
