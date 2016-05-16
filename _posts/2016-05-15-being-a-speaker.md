@@ -1,10 +1,10 @@
 ---
 title: Being a Speaker
 layout: post
-author: Gareth Evans
+author: Saul Caganoff 
 ---
 
-## Speaker info...
+## Speaker Information...
 
 ### Theme: Unifying Digital Business
 
