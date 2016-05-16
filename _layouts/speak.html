@@ -56,7 +56,16 @@
 <section class="container-fluid content-section">
     <div id="BlogContent" class="blogcontent typography">
         <div class="row">
+
+            {% assign speakposts = site.posts | where:"title", "Being a Speaker" %}
+
             <div class="col-md-8 col-md-offset-2">
+                {{ speakposts.first.content }}
+            </div>
+
+            <div class="col-md-8 col-md-offset-2">
+
+                <h2>Register to speak now!</h2>
 
                 <div id="wufoo-z1vczr350qtegvl">
                     Fill out my <a href="https://apidaysau.wufoo.com/forms/z1vczr350qtegvl">online form</a>.
