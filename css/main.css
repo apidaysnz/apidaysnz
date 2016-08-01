@@ -8298,11 +8298,17 @@ header h1 {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+#sponsors-bronze img.datacom-logo {
+    max-width: 170px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 #sponsors-media img{
     max-width: 110px;
 }
 
-#sponsors-media img#infoq{
+#sponsors-media img.infoq-logo{
     margin-top: 30px;
 }
 
