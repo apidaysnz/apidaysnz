@@ -8301,6 +8301,11 @@ header h1 {
 #sponsors-media img{
     max-width: 110px;
 }
+
+#sponsors-media img#infoq{
+    margin-top: 30px;
+}
+
 #sponsors-silver .sponsor-silver p {
     margin-top: 20px;
 }
