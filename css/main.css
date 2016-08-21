@@ -8288,6 +8288,9 @@ header h1 {
     padding-top: 20px;
     padding-bottom: 15px;
 }
+#sponsors-bronze img.orion-logo {
+    max-width: 200px;
+}
 #sponsors-bronze img.braintree-logo {
     max-width: 150px;
     padding-top: 15px;
