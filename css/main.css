@@ -8278,9 +8278,14 @@ header h1 {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+#sponsors-silver img.pushpay-logo{
+    max-width: 200px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
 #sponsors-bronze img.nzpost-logo {
-    max-width: 190px;
-    padding-top: 15px;
+    max-width: 250px;
+    padding-top: 20px;
     padding-bottom: 15px;
 }
 #sponsors-bronze img.braintree-logo {
@@ -8315,8 +8320,9 @@ header h1 {
 #sponsors-silver .sponsor-silver p {
     margin-top: 20px;
 }
-#organisers img.sixtree-img{
-    max-width:160px;
+#organisers img.deloitte-logo{
+    max-width:230px;
+	padding-top: 30px;
 }
 #organisers img.hypr-img{
     max-width: 230px;
