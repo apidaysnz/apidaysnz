@@ -27,8 +27,7 @@ end
 f = File.read('speakers.yml')
 y = YAML.load(f)
 
-row = ['Foote','Randall','Vanstone']
-
+row = ['Foote','Randall','Vanstone','Tiwari']
 puts '                <div class="row">'
 row.each do |s|
 	sp = Speaker.new(y[s])
