@@ -1,0 +1,17 @@
+---
+title: Speaker - <%= @name %>
+layout: post
+author: Gareth Evans
+---
+
+<% if @talk != nil %>
+## <%= @talk.title %>
+ 
+<%= @talk.abstract %>
+<% end %>
+
+<% if @bio != nil %>
+## Bio:
+ 
+<%= @bio %>
+<% end %>
