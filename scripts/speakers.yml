@@ -1,0 +1,71 @@
+Foote:
+        Name: Swithin Foote
+        Title: Integration Architect
+        Affiliation: Middleware New Zealand
+        Email: swithin.foote@middleware.co.nz
+        Mobile: 021 280 3113
+        Picture: SwithinFoote.png
+        BioLink: /2016/08/22/swithin-foote.html
+        Status: Confirmed
+
+Tiwari:
+        Name: Abishek Tiwari
+        Title: Solutions Manager APAC
+        Affiliation: Isentia
+        Email: abishek.twr@gmail.com
+        Picture: Abhi_Profile_400x400.jpeg
+        BioLink: /2016/08/22/abishek-tiwari.html
+        Status: Confirmed
+
+Daschner:
+        Name: Sebastian Daschner
+        Title: IT Consultant
+        Affiliation: Sebastian Daschner - IT Beratung
+        Email: 
+        Picture: SebastianDaschner.jpeg
+        Status: Confirmed
+
+Cully:
+        Name: Tom Cully
+        Title:  Cloud Architect
+        Affiliation: API Talent
+        Picture: 
+        Twitter: tomdionysus
+        Email: tom.cully@apitalent.co.nz
+        Status: Confirmed - waiting on picture
+Broadley:
+        Name: Drew Broadley
+        Title: Founder
+        Affiliation: Penny
+        Picture: 
+        Email: drew@penny.co.nz
+        Phone: 021 519 711
+        Status: Accepted - waiting on travel permission
+Iglesias:
+        Name: Martina Iglesias
+        Title: Backend Engineer
+        Affiliation: Spotify
+        Picture: 
+        Status: Accepted - waiting on confirmation
+Vanstone:
+        Name: Ian Vanstone
+        Title: CTO
+        Affiliation: IntegrationWorks
+        BioLink: /2016/08/22/ian-vanstone.html
+        Picture: 
+        Bio: |
+                Ian has spent the past 16 years connecting things.   His experience spans a mix of technical and people management roles in strategy, product R&D, project delivery, operations, and consulting – across a broad range of countries and industries.  Amongst other things, he's designed and written a mass of software, authored a few patents, and spoken at conferences in the US, Europe, and Australasia.   Having moved to New Zealand 6 years ago, he’s had the pleasure of working for some of New Zealand’s biggest brands.  As CTO at IntegrationWorks he is responsible for developing emerging technologies and practices into products and services, scaling talent and teams, and direct client delivery.
+Randall:
+        Name: Ian Randall
+        Title: ""
+        Affiliation: Pushpay
+        Twitter: kiwipom
+        Picture: IanRandall.jpeg
+        BioLink: /2016/08/22/ian-randall.html
+        Bio: |
+                Ian Randall is a technologist and a family man originally from England, now living in Auckland, New Zealand. He spends his days coding vicariously through extra-super-double talented developers at Pushpay. He loves developer conferences so much, he built one called Codemania (http://codemania.io).
+who:
+        Name: 
+        Title: 
+        Affiliation: 
+        Picture: 
