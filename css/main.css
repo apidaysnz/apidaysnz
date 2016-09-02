@@ -8311,6 +8311,11 @@ header h1 {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+#sponsors-bronze img.apigee-logo {
+    max-width: 170px;
+    margin-top: -5px;
+	margin-bottom: 10px;
+}
 
 #sponsors-media img{
     max-width: 110px;
