@@ -8273,6 +8273,10 @@ header h1 {
 #sponsors-gold img {
     max-width: 180px;
 }
+#sponsors-gold img.ibm-logo {
+	margin-top: -20px
+}
+
 #sponsors-silver img{
     max-width: 140px;
     padding-top: 15px;
