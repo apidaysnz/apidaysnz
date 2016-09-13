@@ -12,7 +12,7 @@ This keynote will give you a different perspective on Web APIs and introduce you
 
 ## Bio:
 
-Creator of [JSON-LD](http://json-ld.org/) and [Hydra](www.hydra-cg.com), Google.
+Creator of [JSON-LD](http://json-ld.org/) and [Hydra](http://www.hydra-cg.com), Google.
 
 Markus Lanthaler is a software engineer at Google, one of the core designers of JSON-LD, and the inventor of Hydra. He’s an internationally recognized expert on Web architecture, Linked Data, and Hypermedia APIs. He has authored numerous papers, is a frequent speaker at conferences, and chairs the Hydra W3C Community Group. Markus Lanthaler holds a Ph.D. in Computer Science for his research on RESTful Web APIs and Linked Data.
  
