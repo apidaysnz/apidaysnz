@@ -1,5 +1,5 @@
 ---
-title: Speaker - Steven Cooper
+title: Speaker - Todd Brackley
 layout: post
 author: Gareth Evans
 ---
