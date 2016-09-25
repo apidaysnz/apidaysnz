@@ -15,18 +15,27 @@
         th {
             text-align: center;
         }
+        td a {
+            display: block;
+            width: 100%;
+        }
         .both-streams {
-            padding-left: 60px !important;
             background: #6ebdd3 !important;
             text-align: center !important;  
             color: white !important;          
         }
+        .talk.keynote {
+            color: #3ca2c0 !important;
+            background: white !important;
+        }
+        .talk.technical {
+            color: #754994;
+        }
+        .talk.strategy {
+            color: #7aa45a;
+        }
         span.speaker {
             font-weight: bold;
-            color: #3ca2c0 !important;
-        }
-        .both-streams span.speaker {
-            color: white !important;
         }
     </style>
 
@@ -67,8 +76,8 @@
                     <tbody>
                         <tr>
                             <th dir="ltr">Day1</th>
-                            <th dir="ltr">Technical Track</th>
-                            <th dir="ltr">Strategy Track</th>
+                            <th dir="ltr" class="talk technical">Technical Track</th>
+                            <th dir="ltr" class="talk strategy">Strategy Track</th>
                         </tr>
                         <tr style='height:20px;'>
                             <td>8:15</td>
@@ -76,15 +85,15 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>9:00</td>
-                            <td colspan="2" class="both-streams">Welcome to API Days - <span class="speaker">Saul Caganoff and Gareth Evans</span></td>
+                            <td colspan="2" class="both-streams talk keynote">Welcome to API Days - <span class="speaker">Saul Caganoff and Gareth Evans</span></td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>9:15</td>
-                            <td colspan="2" class="both-streams">Keynote: <span class="speaker">Lillian Grace</span> - Data as a language</td>
+                            <td colspan="2" class="both-streams talk keynote"><a href="2016/07/15/lillian-grace.html">Keynote: <span class="speaker">Lillian Grace</span> - Data as a language</a></td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>10:00</td>
-                            <td colspan="2" class="both-streams">Keynote: <span class="speaker">Glenn Block</span> - Hypermedia Myths and Misconceptions</td>
+                            <td colspan="2" class="both-streams talk keynote"><a href="2016/07/15/glenn-block.html">Keynote: <span class="speaker">Glenn Block</span> - Hypermedia Myths and Misconceptions</a></td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>10:45</td>
@@ -92,13 +101,13 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>11:05</td>
-                            <td><span class="speaker">Kirsten Hunter</span> - Irresistible APIs</td>
-                            <td><span class="speaker">Simon Raik-Allen</span> - So You Want to Be a CTO</td>
+                            <td class="talk technical"><span class="speaker">Kirsten Hunter</span> - Irresistible APIs</td>
+                            <td class="talk strategy"><span class="speaker">Simon Raik-Allen</span> - So You Want to Be a CTO</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>11:45</td>
-                            <td><span class="speaker">Barak Chamo</span> - GraphQL for the RESTful crowd</td>
-                            <td><span class="speaker">Rajeev Ramani</span> - API Platforms</td>
+                            <td class="talk technical"><span class="speaker">Barak Chamo</span> - GraphQL for the RESTful crowd</td>
+                            <td class="talk strategy"><span class="speaker">Rajeev Ramani</span> - API Platforms</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>12:25</td>
@@ -106,24 +115,18 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>13:10</td>
-                            <td>
-                                <div><span class="speaker">Sebastian Daschner</span> - Putting Hypermedia Back in REST with JAX-RS and Java EE</div>
-                            </td>
-                            <td><span class="speaker">Adam Moriarty</span> - Opening the Vault - Open Data from Auckland Museum.</td>
+                            <td class="talk technical"><span class="speaker">Sebastian Daschner</span> - Putting Hypermedia Back in REST with JAX-RS and Java EE</td>
+                            <td class="talk strategy"><span class="speaker">Adam Moriarty</span> - Opening the Vault - Open Data from Auckland Museum.</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>13:50</td>
-                            <td>
-                                <div><span class="speaker">Steven Cooper</span> - Machine learning your way to smarter API error responses</div>
-                            </td>
-                            <td><span class="speaker">Swithin Foote</span> - APIculate: API Strategy, What&amp;s the Point?</td>
+                            <td class="talk technical"><span class="speaker">Steven Cooper</span> - Machine learning your way to smarter API error responses</td>
+                            <td class="talk strategy"><span class="speaker">Swithin Foote</span> - APIculate: API Strategy, What&amp;s the Point?</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>14:30</td>
-                            <td>
-                                <div><span class="speaker">Thomas Cully</span> - Building Fast APIs Using Single Class Microservices: Ticketure by Area360</div>
-                            </td>
-                                                          <td><span class="speaker">David Hay</span> - APIs in Healthcare</td>
+                            <td class="talk technical"><span class="speaker">Thomas Cully</span> - Building Fast APIs Using Single Class Microservices: Ticketure by Area360</td>
+                            <td class="talk strategy"><span class="speaker">David Hay</span> - APIs in Healthcare</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>15:10</td>
@@ -131,20 +134,18 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>15:30</td>
-                            <td><span class="speaker">Justin Wood &amp; Giovanni Vigorelli</span> - API Specification Shootout</td>
-                            <td><span class="speaker">Drew Broadly</span> - Designing the API&#39;s of a P2P Platform</td>
+                            <td class="talk technical"><span class="speaker">Justin Wood &amp; Giovanni Vigorelli</span> - API Specification Shootout</td>
+                            <td class="talk strategy"><span class="speaker">Drew Broadly</span> - Designing the API&#39;s of a P2P Platform</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>16:10</td>
-                            <td>
-                                <div><span class="speaker">Martina Iglesias</span> - Automatic discovery of service metadata for systems at scale</div>
-                            </td>
-                            <td><span class="speaker">Aimee Whitcroft</span> - Open Data and APIs: fueling innovation</td>
+                            <td class="talk technical"><span class="speaker">Martina Iglesias</span> - Automatic discovery of service metadata for systems at scale</td>
+                            <td class="talk strategy"><span class="speaker">Aimee Whitcroft</span> - Open Data and APIs: fueling innovation</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>16:50</td>
-                            <td><span class="speaker">Abhishek Tiwari</span> - Stored Procedures as a Service</td>
-                            <td><span class="speaker">Nisha Clark</span> - Disruption in telecommunications</td>
+                            <td class="talk technical"><span class="speaker">Abhishek Tiwari</span> - Stored Procedures as a Service</td>
+                            <td class="talk strategy"><span class="speaker">Nisha Clark</span> - Disruption in telecommunications</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>17:30</td>
@@ -163,8 +164,8 @@
                             <th dir="ltr">
                                 <div>Day2</div>
                             </th>
-                            <th dir="ltr">Technical Track</th>
-                            <th dir="ltr">Strategy Track</th>
+                            <th dir="ltr" class="talk technical">Technical Track</th>
+                            <th dir="ltr" class="talk strategy">Strategy Track</th>
                         </tr>                        
                         <tr style='height:20px;'>
                             <td>8:30</td>
@@ -172,16 +173,16 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>9:00</td>
-                            <td colspan="2" class="both-streams">Keynote: <span class="speaker">Markus Lanthaler</span> - From Strings to Things to a Web of Services</td>
+                            <td colspan="2" class="both-streams talk keynote">Keynote: <span class="speaker">Markus Lanthaler</span> - From Strings to Things to a Web of Services</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>9:45</td>
-                            <td colspan="2" class="both-streams">Keynote: <span class="speaker">Expert Panel</span> - IBM, Westpac, Spark, and Enable discuss APIs.</td>
+                            <td colspan="2" class="both-streams talk keynote">Keynote: <span class="speaker">Expert Panel</span> - IBM, Westpac, Spark, and Enable discuss APIs.</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>10:30</td>
-                            <td><span class="speaker">Gareth Evans</span> - Hypermedia API Architecture Patterns</td>
-                            <td><span class="speaker">Samson Phommachack</span> - How to grow a startup on Government APIs</td>
+                            <td class="talk technical"><span class="speaker">Gareth Evans</span> - Hypermedia API Architecture Patterns</td>
+                            <td class="talk strategy"><span class="speaker">Samson Phommachack</span> - How to grow a startup on Government APIs</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>10:30</td>
@@ -189,18 +190,18 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>10:50</td>
-                            <td><span class="speaker">Todd Brackley</span> - More details to follow!</td>
-                            <td><span class="speaker">Andrew Wilshire</span> - MegaTrends affecting Financial Services and the Open Banking Agenda</td>
+                            <td class="talk technical"><span class="speaker">Todd Brackley</span> - More details to follow!</td>
+                            <td class="talk strategy"><span class="speaker">Andrew Wilshire</span> - MegaTrends affecting Financial Services and the Open Banking Agenda</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>11:30</td>
-                            <td><span class="speaker">Ian Randall</span> - More details to follow!</td>
-                            <td><span class="speaker">Ian Vanstone</span> - Preparing the organisation for decentralised integration</td>
+                            <td class="talk technical"><span class="speaker">Ian Randall</span> - More details to follow!</td>
+                            <td class="talk strategy"><span class="speaker">Ian Vanstone</span> - Preparing the organisation for decentralised integration</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>12:10</td>
-                            <td><span class="speaker">Col Perks</span> - API Design Aesthetics</td>
-                            <td><span class="speaker">Mark Sim-Smith</span> - Air New Zealand’s API Journey (so far).</td>
+                            <td class="talk technical"><span class="speaker">Col Perks</span> - API Design Aesthetics</td>
+                            <td class="talk strategy"><span class="speaker">Mark Sim-Smith</span> - Air New Zealand’s API Journey (so far).</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>12:50</td>
@@ -208,13 +209,13 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>13:35</td>
-                            <td><span class="speaker">Michael Barker</span> - Reactive &amp; Asynchronous - Adventures with APIs in Financial Trading</td>
-                            <td><span class="speaker">Axel Grosse</span> - Implementing an API Platform : lessons learned from real life customers</td>
+                            <td class="talk technical"><span class="speaker">Michael Barker</span> - Reactive &amp; Asynchronous - Adventures with APIs in Financial Trading</td>
+                            <td class="talk strategy"><span class="speaker">Axel Grosse</span> - Implementing an API Platform : lessons learned from real life customers</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>14:15</td>
-                            <td><span class="speaker">Christiano Borchardt</span> - Implementing Hypermedia API. A front-end and back-end retrospective.</td>
-                            <td><span class="speaker">Saul Caganoff</span> - More details to follow!</td>
+                            <td class="talk technical"><span class="speaker">Christiano Borchardt</span> - Implementing Hypermedia API. A front-end and back-end retrospective.</td>
+                            <td class="talk strategy"><span class="speaker">Saul Caganoff</span> - More details to follow!</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>14:55</td>
@@ -222,17 +223,17 @@
                         </tr>
                         <tr style='height:20px;'>
                             <td>15:20</td>
-                            <td><span class="speaker">Glenn Block</span> - More details to follow!</td>
-                            <td><span class="speaker">Niket Mohey</span> - The Rise of the Composable Enterprise</td>
+                            <td class="talk technical"><span class="speaker">Glenn Block</span> - More details to follow!</td>
+                            <td class="talk strategy"><span class="speaker">Niket Mohey</span> - The Rise of the Composable Enterprise</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>16:00</td>
-                            <td><span class="speaker">Anupama Naturajan</span> - Designing Pragmatic RESTful APIs</td>
-                            <td><span class="speaker">Igor Albornett</span> - API delivery of APis: On-boarding Developers into our API platform.</td>
+                            <td class="talk technical"><span class="speaker">Anupama Naturajan</span> - Designing Pragmatic RESTful APIs</td>
+                            <td class="talk strategy"><span class="speaker">Igor Albornett</span> - API delivery of APis: On-boarding Developers into our API platform.</td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>16:40</td>
-                            <td colspan="2" class="both-streams">Conference Close - <span class="speaker">Saul Caganoff</span></td>
+                            <td colspan="2" class="both-streams talk keynote">Conference Close - <span class="speaker">Saul Caganoff</span></td>
                         </tr>
                         <tr style='height:20px;'>
                             <td>17:00</td>
@@ -243,7 +244,6 @@
             </div>
         </div>
     </div>
-
 </section>
 
 {% include organisers.html %}
