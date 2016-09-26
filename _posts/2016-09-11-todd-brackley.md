@@ -4,9 +4,9 @@ layout: post
 author: Gareth Evans
 ---
 
-## Talk
+## Building hypermedia clients
   
-More details to come!
+A hypermedia client walks a network of data following links - that we all know and are starting to see in practice. It turns out that edit and create forms are used less; hard coding prevails. HAL doesn't have forms for example, yet the lesser used Cj does as templates. I will demonstrate provisioning a network of data through a javascript client to show that there is no magic and talk through some of the major design issues.
 
 ## Bio:
  
