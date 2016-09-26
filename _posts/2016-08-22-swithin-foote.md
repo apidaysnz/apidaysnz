@@ -4,7 +4,7 @@ layout: post
 author: Gareth Evans
 ---
 
-## APIculate
+## APIculate: API Strategy, What’s the Point?
   
 When building an API strategy, creating a capability or even just beginning an API journey one of the questions that we are often asked is “what is the point?”. This talk will focus on the process of getting to that point - the apiculate. How to define and promote a strategy and the key components and considerations involved. Based on a successful workshop it includes some helpful industry references and technology agnostic advice.
 
