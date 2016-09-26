@@ -10,4 +10,6 @@ A hypermedia client walks a network of data following links - that we all know a
 
 ## Bio:
  
+Todd actively works with startups and corporates to help them build the capability to deliver simple, scalable software the way the web works.
+
 

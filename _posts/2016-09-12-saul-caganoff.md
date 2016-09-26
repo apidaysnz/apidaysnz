@@ -4,9 +4,9 @@ layout: post
 author: Gareth Evans
 ---
 
-## Talk
+## Your Business as a Platform
   
-More details to follow!
+The platform concept has garnered a great deal of attention from a number of different persepctives - both technical and business. This talk will discuss the intersection between technology platforms and business platforms and how APIs unify and bind the two concepts. In doing so, I will encourage you to think about your current business as a platform.
 
 ## Bio:
  
