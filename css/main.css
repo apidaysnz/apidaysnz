@@ -7488,6 +7488,10 @@ aside:hover {
 h4.speaker-profile {
     height: 50px;
 }
+.speaker {
+    margin-bottom: 60px;	
+}
+
 .SpeakerHolder .speaker-section .speaker-profile {
     color: rgba(0, 0, 0, 0.5);
     font-weight: 500;
