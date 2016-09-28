@@ -8295,11 +8295,15 @@ header h1 {
 }
 #sponsors-bronze img.nzpost-logo {
     max-width: 250px;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-bottom: 15px;
+}
+#sponsors-bronze img.elastic-logo {
+    max-width: 250px;
 }
 #sponsors-bronze img.orion-logo {
     max-width: 200px;
+    padding-top: 40px;
 }
 #sponsors-bronze img.braintree-logo {
     max-width: 150px;
