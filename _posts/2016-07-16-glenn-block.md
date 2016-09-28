@@ -6,9 +6,13 @@ author: Gareth Evans
 
 ## Distributed workflows with hypermedia clients
  
-Glenn will demonstrate a goal oriented hypermedia workflow.
+Hypergoal, workflow in a hypermedia world
 
-A system which enables hypermedia clients to express a goal which the server directs them to achieve. This differs from traditional clients in which the server(s) generally do not have the context of what the client is trying to do.
+Traditional workflow systems rely on server orchestration with a centralized server that manages all of the work and the state necessary to complete the workflow. 
+
+In a hypermedia world however we really want the client to drive, not the server. Hypermedia is all about offering choices. The client has a goal it wants to achieve. Hypermedia provides a way for the client to achieve that goal is it navigates hypermedia controls to achieve its final state. 
+
+Sound intriguing? In this session, we'll learn about Hypergoal, a "work in progress" effort that aims to make this possible through introducing client driven workflows.
 
 ## Bio:
 
