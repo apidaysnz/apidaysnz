@@ -9,7 +9,7 @@ author: Gareth Evans
 Details to be Confirmed
   
 ## Bio:
- 
-Dennis Ashby is an IBM worldwide director and technical leader, API Connect Solution which encompasses API creation, runtime, management, and enhancement. In his nearly 20 years of experience with IBM Middleware Software, Dennis has led Professional Services organisations for some of IBM’s largest Systems Integrators such as Prolifics and Ascendant Technology (now Sirius Computer Solutions).  Now focused on the API Economy and Node.JS, Dennis brings his hands-on experience in architecting and building large scalable System of Record applications to Enterprises eager to transform their businesses through the implementation of a public/private API program. 
+
+Mr. Dennis Ashby is a Technology Executive with 20 years of experience in Architecture and Design of complex mission-critical systems. Dennis joins IBM via the StrongLoop acquisition where he ran the Technical Sales and Consulting organizations. Currently he is focused on help IBM's client focus transform their organizations to take advantage of MicroServices and APIs. Functioning as the Worldwide Technical Sales Leader for IBM API Connect and DataPower, Dennis provides technical leadership and guidance for the technical sales professionals helping clients to success in the age of the API Economy.
 
 ### Twitter: @Dennis_Ashby
