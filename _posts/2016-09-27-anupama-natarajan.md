@@ -1,5 +1,5 @@
 ---
-title: Speaker - Anupama Naturajan
+title: Speaker - Anupama Natarajan
 layout: post
 author: Damian Harvey
 ---
