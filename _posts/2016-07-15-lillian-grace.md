@@ -4,9 +4,9 @@ layout: post
 author: Gareth Evans
 ---
 
-## Data as a language
+## Starting at the start: Why purpose and context are critical for designing great systems
  
-More details to come!
+The online world is an opportunity for us to do things differently than we’ve every done before, but we’re only really now starting to see real changes in our behaviour – in how we share information, communicate, and organise and govern ourselves. Lillian will share her thoughts on the implications of this change through her experience heading up Figure.NZ, an organisation focused on creating a data democracy. She’ll talk about how it has led the team to think more about the wider context they’re operating in, how it affects what the organisation does and where it fits, and why this means the redesign of the Figure.NZ API has become a critical part for achieving their mission.
 
 ## Bio:
 
