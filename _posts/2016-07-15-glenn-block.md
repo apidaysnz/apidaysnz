@@ -6,7 +6,7 @@ author: Gareth Evans
 
 ## Hypermedia Mythbusters
  
-The emergence of Hypermedia systems has brought with it a bunch of "facts". Some of the things you might here are:
+The emergence of Hypermedia systems has brought with it a bunch of "facts". Some of the things you might hear are:
 
 - The web was built for Hypermedia. 
 - There is no REST without Hypermedia
