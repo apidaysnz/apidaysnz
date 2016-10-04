@@ -6,7 +6,7 @@ author: Gareth Evans
 
 ## When Worlds Collide - APIs in a Legacy SOA environment
   
-APIs are a new an incredibly powerful mechanism to rapidly deliver value to customers leveraging DevOps approaches and sophisticated tools. This works brilliantly in a "green-fields" development environment where you are not held back by existing technology solutions. This talk will focus on how to approach the cases where you don't have this luxury and you need to integrate back into a legacy SOA environment. We will cover what are the most appropriate techniques and patterns for bridging the gap between and API centric approach and a legacy SOA environment based on our recent experience with a large government client.
+APIs are a new and incredibly powerful mechanism to rapidly deliver value to customers leveraging DevOps approaches and sophisticated tools. This works brilliantly in a "green-fields" development environment where you are not held back by existing technology solutions. This talk will focus on how to approach the cases where you don't have this luxury and you need to integrate back into a legacy SOA environment. We will cover what are the most appropriate techniques and patterns for bridging the gap between and API centric approach and a legacy SOA environment based on our recent experience with a large government client.
 
 ## Bio:
  
