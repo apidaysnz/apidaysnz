@@ -4,7 +4,7 @@ layout: post
 author: Gareth Evans
 ---
 
-## So You Want to Be a CTO
+## The Role of the CTO in Product & Platform Development
   
 Simon will be talking through various aspects in the life of the CTO and sharing experiences and learnings from his 6+ years in the role.
 
