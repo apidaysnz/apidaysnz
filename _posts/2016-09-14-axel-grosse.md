@@ -18,3 +18,6 @@ Prior to Axway, Axel worked in Germany with Vordel for 2 years and was the chief
 
 ### Twitter: @apiaxl
 
+
+
+[Talk Slides](/slides/grosse_api_platform.pdf)

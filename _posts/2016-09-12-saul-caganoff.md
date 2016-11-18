@@ -17,3 +17,6 @@ Saul was the CTO at Sixtree from 2012 to 2016 where he helped define Sixtree's t
 Saul has a BSc from the University of Sydney and a PhD in Astrophysics from the Australian National University.
 
 ### Twitter: @scaganoff
+
+
+[Talk Slides](/slides/caganoff_business_platform.pdf)

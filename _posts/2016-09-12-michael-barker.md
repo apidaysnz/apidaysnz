@@ -15,3 +15,6 @@ Michael Barker is the Head of Software for Asia/Pacific at LMAX Exchange and cod
 Michael currently maintains the LMAX Disruptor open source project and has made a smattering of OSS contributions elsewhere.
 
 Burger connoisseur and F1 fan.
+
+
+[Talk Slides](/slides/barker_financial_apis.pdf)

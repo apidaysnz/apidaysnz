@@ -14,3 +14,6 @@ Air NZ has been undergoing a digital transformation since the end of 2015, and o
  
  Mark has been in the IT industry in NZ for over 20 years, working as a software developer, tech lead, and architect for a wide variety of NZ and Australian corporates, often in the middleware space.  Mark has been a Senior Solutions Architect for Air NZ for over 5 years, focusing on their API, Web Services, Events, and Integrations.  Mark is currently the product owner of Air NZ’s API Management Platform, and is responsible for Air NZ’s API Strategy.
  
+
+
+[Talk Slides](/slides/sim-smith_airnz.pdf)

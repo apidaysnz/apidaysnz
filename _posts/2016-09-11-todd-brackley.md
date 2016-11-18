@@ -13,3 +13,6 @@ A hypermedia client walks a network of data following links - that we all know a
 Todd actively works with startups and corporates to help them build the capability to deliver simple, scalable software the way the web works.
 
 
+
+
+[Talk Slides](/slides/brackley_hypermedia_clients.pdf)

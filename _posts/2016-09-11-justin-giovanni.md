@@ -13,3 +13,6 @@ Each speaker will present one of the two most popular API specification language
 Justin Wood is an experienced integration consultant actively delivering APIs to big business in NZ. Justin is an API evangelist who runs the thriving Auckland API and Microservices Meetup. 
 
 Giovanni Vigorrelli is a Technical Sales Specialist at IBM who advises IBM's clients or potential clients on integration technologies.
+
+
+[Talk Slides](/slides/justin_shootout.pdf)

@@ -13,3 +13,6 @@ I'll talk about the use of open data and APIs in events like GovHack (Australasi
 ## Bio:
  
 I'm an open data / open government / civic technology advocate working in the online/digital, engagement and service delivery spaces in local and central Government. I'm also 2IC/comms lead for GovHack NZ 2016.
+
+
+[Talk Slides](/slides/whitcroft_opendata_innovation.pdf)

@@ -12,3 +12,6 @@ Functions as a service (FaaS) is an emerging pattern to build APIs at scale. You
 
 Abhishek is currently leading software engineering team at Isentia where he drives API and data transformation program with help of a strong engineering and architecture team. He is passionate about building great software. Abhishek helps organisations to develop a DevOps culture and align it with agile best practices.
 
+
+
+[Talk Slides](/slides/tiwari_stored_procedures.pdf)

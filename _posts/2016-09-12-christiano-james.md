@@ -13,3 +13,5 @@ The talk will cover the experience of implementing a Hypermedia API from a back-
 A co-founder, leading the development team at Auror, James is responsible for the planning, prioritising and collaboration within the team. James oversees the development team in bringing new software updates and intuitive feature adaptions to our users.
 
 Christiano is a senior back-end developer at Auror, focusing on data security, service architecture and platform scale. He is part of the development team and helps to ensure the software runs smoothly for our users.
+
+[Talk Slides](/slides/borchardt_hypermedia_client.pdf)

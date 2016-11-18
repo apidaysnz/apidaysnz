@@ -12,3 +12,6 @@ When building an API strategy, creating a capability or even just beginning an A
 
 Swithin has been frantically connecting various computers, departments, people and strategies for 17 years across a range of industries. Born and bred in New Zealand he followed the setting sun, returning from a 2 year U.K. OE 11 years later! Whilst abroad he worked predominantly in the financial sector where he was involved in large and complex integrations such as the U.K. banking Faster Payments initiative. He is currently head of Integration at Middleware New Zealand, running a team of talented integrators and overseeing several large customer API programmes. He has recently co-authored an API Standards Guide for New Zealand Government.
 
+
+
+[Talk Slides](/slides/foote_apiculate.pdf)

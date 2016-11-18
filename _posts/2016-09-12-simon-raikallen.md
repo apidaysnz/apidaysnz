@@ -21,3 +21,6 @@ Simon Raik-Allen joined MYOB in January 2010 as Chief Technology Officer. He is 
 He has worked the majority of his career based in Silicon Valley in areas such as trading exchanges, e-commerce, business intelligence, communications, banking, government, media and entertainment. Simon has also worked with companies such as Sony, eBay, AOL, Bank of America,Fosters,Telstra, NAB, ANZ.
 
 Simon has a Bachelor of Science (Honours) and a Bachelor of Computing from Monash University.
+
+
+[Talk Slides](/slides/raik-allen_product_platforms.pdf)

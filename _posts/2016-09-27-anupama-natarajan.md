@@ -14,3 +14,6 @@ This session will walk you through some key elements to keep in mind when design
 15 years of commercial experience in designing and developing Enterprise applications, Data Warehouse and Business Intelligence solutions. Ability to communicate and simplify architectural solutions to various audiences of IT and business. Really passionate in designing modern API-centric solutions using multiple technology stack.
 
 Follow on Twitter @shantha05
+
+
+[Talk Slides](/slides/natarajan_pragmatic_rest_apis.pdf)

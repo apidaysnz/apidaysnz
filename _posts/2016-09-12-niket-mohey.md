@@ -17,3 +17,6 @@ In this session, you will learn how to architect your organisation to thrive in 
 Niket brings over 15 years of software solution experience, with a passion for enabling communications between applications and devices alike. He has held roles in software development and consulting to senior management with a firm focus on integration. 
 
 As a Sr. Solutions Consultant at Mulesoft Niket is responsible for technical aspects of the Mulesoft solution for its customers in New Zealand, industry evangelism, collecting feedback from the New Zealand market in order to shape Mulesofts product roadmap and future offerings.
+
+
+[Talk Slides](/slides/mohey_composable_enterprise.pdf)

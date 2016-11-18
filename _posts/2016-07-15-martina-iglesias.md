@@ -19,3 +19,5 @@ We want you to know about our open source tool, Apollo and how we solved this co
 Martina is a Lead Backend Engineer at Spotify in the team responsible for album, artist and chart pages.
 
 Before she worked as a researcher (Human Brain Project), which lead to a scientific publication. In her free time she enjoys music and dancing tango.
+
+[Talk Slides](/slides/iglesias_service_metadata.pdf)
