@@ -14,3 +14,4 @@ Rick is an experienced agile and technical practices coach who has work in a ran
 
 Gareth has over 16 years experience in the IT industry, including more than a decade in London working as a technologist, team leader and software coach. He is a speaker at NZ and international events. Gareth co-founded Hypr to champion Agile architecture and lean software delivery for the benefit of the NZ software industry.
 
+[Talk Slides](/slides/evans_hypermedia_design_patterns.pdf)
