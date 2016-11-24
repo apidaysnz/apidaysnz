@@ -18,3 +18,4 @@ Over the last 20 years, Steven has worked as a senior developer/tech lead for a 
 
 Steven hopes to align businesses with the most appropriate solutions – products that deliver efficiency, flexibility and enable scalability.
 
+[Talk Slides](/slides/cooper_api_error_ml.pdf)
